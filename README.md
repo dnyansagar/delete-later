@@ -13,8 +13,10 @@
 [twitter]: https://twitter.com/dnyansagar2
 [linkedin]: https://www.linkedin.com/in/rohit-dnyansagar
 
+
 ## or personal email 
 [Email](mailto:rohit.dnyansagar@gmail.com)
+
 
 ### Technical skills:
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
