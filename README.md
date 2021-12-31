@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @dnyansagar
+### About me:
+- 👋 Hi, I’m Rohit Dnyansagar
 - 👀 I’m interested in Bioinformatics algorithms and its applications
 - 🌱 I’m currently learning Machine Learning algorithms and Single-cell ATAC-seq analysis
 - 💞️ I’m looking to collaborate on Data science projects
@@ -6,7 +7,7 @@
 
 ### Connect with me:
 
-## On social media
+### On social media
 [<img align="left" alt="dnyansagar| Twitter"  src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img align="left" alt="dnyansagar | LinkedIn"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
@@ -14,7 +15,7 @@
 [linkedin]: https://www.linkedin.com/in/rohit-dnyansagar
 
 
-## or personal email 
+  ## or personal email 
 [Email](mailto:rohit.dnyansagar@gmail.com)
 
 
