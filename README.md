@@ -6,14 +6,15 @@
 
 ### Connect with me:
 
-
+## On social media
 [<img align="left" alt="dnyansagar| Twitter"  src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img align="left" alt="dnyansagar | LinkedIn"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="dnyansagar | Rohit Dnyansagar"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][Gmail]
 
 [twitter]: https://twitter.com/dnyansagar2
 [linkedin]: https://www.linkedin.com/in/rohit-dnyansagar
-[Gmail](mailto:rohit.dnyansagar@gmail.com)
+
+## or personal email 
+[Email](mailto:rohit.dnyansagar@gmail.com)
 
 ### Technical skills:
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
