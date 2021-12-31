@@ -3,7 +3,6 @@
 - 👀 I’m interested in Bioinformatics algorithms and its applications
 - 🌱 I’m currently learning Machine Learning algorithms and Single-cell ATAC-seq analysis
 - 💞️ I’m looking to collaborate on Data science projects
-- 📫 You can reach me here on GitHub or on twitter @dnyansagar2
 
 ### Connect with me:
 
@@ -21,10 +20,10 @@
 
 
 ### Technical skills:
+![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 
 <!---
