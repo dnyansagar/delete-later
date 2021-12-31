@@ -14,8 +14,9 @@
 [twitter]: https://twitter.com/dnyansagar2
 [linkedin]: https://www.linkedin.com/in/rohit-dnyansagar
 
+<br />
 
-  ## or personal email 
+## or personal email 
 [Email](mailto:rohit.dnyansagar@gmail.com)
 
 
